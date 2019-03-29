@@ -1,0 +1,163 @@
+{
+    "global_settings": {
+
+
+        "tokens": [
+            {
+                "token": 3
+            },
+            {
+                "token": 1
+            },
+            {
+                "token": 1
+            },
+            {
+                "token": 1
+            },
+            {
+                "token": 2
+            },
+            {
+                "token": 2
+            },
+            {
+                "token": 2
+            },
+            {
+                "token": 3
+            },
+            {
+                "token": 3
+            },
+            {
+                "token": 3
+            }
+        ],
+        
+        "menu_image_file": "assets/menuBkg.png",
+        "splash_image_file": "assets/splash screen.png",
+        "overlay_credits_1": "assets/Overlays/credits1.png",
+        "overlay_credits_2": "assets/Overlays/credits2.png",
+        "overlay_credits_3": "assets/Overlays/credits3.png",
+
+        "screen": {
+            "screen_width": 1280,
+            "screen_height": 720
+        },
+
+        "menu_heading": "Mosh",
+        "extras_heading": "Extras",
+        "mode_menu_heading": "Select A Game Mode",
+        "options_heading": "Options",
+        "pause_heading": "Paused",
+
+
+        "font": "assets/m12.ttf",
+        "menu_button_image": "assets/button.png",
+        "tower_buttons_image": "assets/wallButton.png",
+        "pause_button_Image":  "assets/pauseButton.png",
+        "button_sound": "assets/button_click.wav",
+
+        "music": "assets/Music.wav",
+        "credits": [
+            {
+                "credit": 1500
+            },
+            {
+                "credit": 2000
+            },
+            {
+                "credit": 2000
+            },
+            {
+                "credit": 2500
+            },
+            {
+                "credit": 2500
+            },
+            {
+                "credit": 3000
+            },
+            {
+                "credit": 3500
+            },
+            {
+                "credit": 4000
+            },
+            {
+                "credit": 5000
+            },
+            {
+                "credit": 6000
+            }
+        ],
+
+        "waves": [
+            {
+                "walking": 1,
+                "flying": 1,
+                "mounted": 0
+            },
+            {
+                "walking": 2,
+                "flying": 1,
+                "mounted": 1
+            },
+            {
+                "walking": 3,
+                "flying": 2,
+                "mounted": 1
+            },
+            {
+                "walking": 4,
+                "flying": 2,
+                "mounted": 2
+            },
+            {
+                "walking": 4,
+                "flying": 3,
+                "mounted": 3
+            },
+            {
+                "walking": 5,
+                "flying": 5,
+                "mounted": 5
+            },
+            {
+                "walking": 7,
+                "flying": 5,
+                "mounted": 5
+            },
+            {
+                "walking": 8,
+                "flying": 7,
+                "mounted": 6
+            },
+            {
+                "walking": 10,
+                "flying": 8,
+                "mounted": 8
+            },
+            {
+                "walking": 10,
+                "flying": 10,
+                "mounted": 10
+            }
+        ],
+
+        "portal_position": { "x": 256, "y": 360 },
+        "portal_image": "assets/portal.png",
+
+        "base_position": { "x": 1024, "y": 360 },
+        "base_health": 2000,
+        "base_image": "assets/Towers/baseTower.png",
+
+        "battleground_image": "assets/battleground.png",
+        "battleground_position": { "x": 208, "y": 120 }
+
+
+
+
+    }
+}
